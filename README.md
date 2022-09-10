@@ -1,62 +1,74 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Movies Info App
 
-# Project Name
+> Movies Info app is an app that helps user get data about thier favorite show , infos like runtime, rating and summary. It is a Single Page App (SPA) that allows User to:
 
-> Description the project.
-
+- List of Movies on Home Page. 
+- Search for a specific movie by name using search bar.
+- See Details of tv shows by clicking specific show.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Javascript
+- Npm
+- React
+- Semanics UI
+- CSS
 
 
-## Getting Started
+## Live Demo
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+A live version of the website can be seen [here](https://tv-shows-spa.netlify.app/)
 
+## Loom Video
+[Loom Video](https://www.loom.com/share/3985e884bcd4410285b5563597d14c79)
 
-To get a local copy up and running follow these simple example steps.
+## 🛠 Installation & Set Up
 
-### Prerequisites
+If you dont have node install on your computer, Install node js from [here](https://nodejs.org/en) as your JavaScript Runtime Engine
 
-### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-### Install
+Download the ZIP from this Github, or run the following git command to clone the files to your machine:
 
-### Usage
+Once the files are on your machine, open the space-travelers folder in Visual Studio Code, and follow the steps in Installation & Set Up
 
-### Run tests
+- Install Node Modules
 
-### Deployment
+```
+npm install
+```
 
+- Start the development server
 
+```
+npm start
+```
+
+- Open http://localhost:3000 to view it in the browser.
+
+# Test
+
+Test the application using the command
+
+```
+npm test
+```
+
+Launches the test runner in the interactive watch mode.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ishpaul Singh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github - [@therealadetunji](https://github.com/therealadetunji)
+- Linkedin - [Michael Adetunji](https://www.linkedin.com/in/adetunji-michael/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page].
 
 ## Show your support
 
@@ -64,12 +76,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+- the project idea originally belongs to @Microverse
+- [Shows Api](https://api.tvmaze.com/shows) used to fetch data about the tv shows.
+- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.

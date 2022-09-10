@@ -1,0 +1,29 @@
+.image {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.name {
+  font-weight: 900;
+  text-align: center;
+}
+
+.summary {
+  display: flex;
+  flex-direction: row;
+}
+
+.font-link {
+  font-family: 'Lato', sans-serif;
+}
+
+.background {
+  background-color: #007fff;
+}

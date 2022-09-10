@@ -1,0 +1,33 @@
+.containerr > div {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.shows {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  color: white;
+}
+
+.ui {
+  color: blue;
+}
+
+.arrow {
+  float: right;
+  font-size: larger;
+}
+
+@media only screen and (max-width: 768px) {
+  .containerr > div {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+
+  .arrow {
+    margin-right: 30px;
+  }
+}

@@ -1,0 +1,22 @@
+.navigation {
+  width: 100vw;
+  background-color: #00f;
+  padding: 8px;
+}
+
+.container {
+  display: flex;
+  margin-left: 20px;
+}
+
+.nav-links {
+  list-style: none;
+  gap: 2rem;
+  margin-right: 20px;
+}
+
+.nav--links {
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+}
