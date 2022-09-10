@@ -1,0 +1,19 @@
+.navDetail {
+  display: flex;
+  justify-content: space-between;
+  color: aqua;
+}
+
+.NavDetails {
+  background-color: #00f;
+}
+
+.right {
+  gap: 40px;
+  color: #fff;
+}
+
+.back {
+  background-color: #fff;
+  font-style: oblique;
+}

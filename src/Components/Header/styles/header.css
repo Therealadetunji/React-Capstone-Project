@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search {
+  margin-right: 50px;
+  height: 25px;
+  width: 200px;
+  margin-top: 6px;
+}
+
+.Header-container {
+  color: #fff;
+  margin-left: 15px;
+}
