@@ -57,11 +57,11 @@ npm test
 Launches the test runner in the interactive watch mode.
 
 ## Authors
-
-👤 **Ishpaul Singh**
-
+👤 **Michael Adetunji**
 - Github - [@therealadetunji](https://github.com/therealadetunji)
 - Linkedin - [Michael Adetunji](https://www.linkedin.com/in/adetunji-michael/)
+
+👤 **Ishpaul Singh**
 
 
 ## 🤝 Contributing
